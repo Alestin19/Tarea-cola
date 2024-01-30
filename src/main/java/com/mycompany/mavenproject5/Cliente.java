@@ -17,6 +17,7 @@ public final class Cliente {
     
             
     public static void main(String[] args) {
+        Cliente n= new Cliente();
     }
     
     public Cliente(){
